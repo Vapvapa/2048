@@ -16,3 +16,5 @@ You need to connect the same numbers to get a larger number. The greater the sum
 The game ends when all the fields or a step are filled, which should result in the number 2048.
 
 The project uses the MVC software architectural pattern.
+
+And it uses swing.
